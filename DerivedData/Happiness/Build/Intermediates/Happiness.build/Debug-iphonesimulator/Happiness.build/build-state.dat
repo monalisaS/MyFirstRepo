@@ -1,0 +1,357 @@
+THappiness
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Info.plist Happiness/Happiness-Info.plist
+cProcessPCH /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-agtzuekultsdsudsrhroxmpxtkfy/Happiness-Prefix.pch.pth Happiness/Happiness-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o /Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o /Users/monalisasatpathy/Developer/Happiness/Happiness/FaceView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o /Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o /Users/monalisasatpathy/Developer/Happiness/Happiness/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness normal i386
+cGenerateDSYMFile /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness
+cCopyStringsFile /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/InfoPlist.strings Happiness/en.lproj/InfoPlist.strings
+cCpResource Happiness/Default.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.png
+cCpResource Happiness/Default@2x.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.png
+cCpResource Happiness/Default-568h@2x.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.png
+cCompileStoryboard /Users/monalisasatpathy/Developer/Happiness/Happiness/en.lproj/MainStoryboard.storyboard
+cTouch /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000517DD09B0000000000228FE0
+t1367199899
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000517DD09C00000000003DDFA0
+t1367199900
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000517DD09B00000000000015F7
+t1367199899
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000517DD09E0000000000000E8D
+t1367199902
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000517DD0A00000000000AB6230
+t1367199904
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000517DD0AA0000000000001B73
+t1367199914
+s7027
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o
+t1370634747
+s79172
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/Happiness.LinkFileList
+c0000000051AEBC9500000000000002C3
+t1370406037
+s707
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o
+t1370406038
+s86860
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o
+t1370586585
+s75324
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o
+t1370406038
+s3308
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-agtzuekultsdsudsrhroxmpxtkfy/Happiness-Prefix.pch.pth
+t1370406038
+s4678444
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app
+t1370634747
+s306
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM
+t1370634747
+s102
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.png
+t1370406166
+s18594
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.png
+t1370406166
+s6540
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.png
+t1370406166
+s16107
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness
+t1370634747
+s30476
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Info.plist
+t1370406037
+s855
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/PkgInfo
+t1370406037
+s8
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/InfoPlist.strings
+t1370406166
+s42
+
+N/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/MainStoryboard.storyboardc
+t1370406167
+s170
+
+N/Users/monalisasatpathy/Developer/Happiness/Happiness/Default-568h@2x.png
+c00000000515C9E6200000000000048A2
+t1365024354
+s18594
+
+N/Users/monalisasatpathy/Developer/Happiness/Happiness/Default.png
+c00000000515C9E62000000000000198C
+t1365024354
+s6540
+
+N/Users/monalisasatpathy/Developer/Happiness/Happiness/Default@2x.png
+c00000000515C9E620000000000003EEB
+t1365024354
+s16107
+
+N/Users/monalisasatpathy/Developer/Happiness/Happiness/FaceView.h
+c0000000051B0E8D500000000000001E5
+t1370548437
+s485
+
+N/Users/monalisasatpathy/Developer/Happiness/Happiness/FaceView.m
+c0000000051B239F50000000000000DA8
+t1370634741
+s3496
+
+N/Users/monalisasatpathy/Developer/Happiness/Happiness/Happiness-Prefix.pch
+c0000000051AEB8820000000000000141
+t1370404994
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessAppDelegate.h
+c0000000051AEB8820000000000000134
+t1370404994
+s308
+
+N/Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessAppDelegate.m
+c0000000051AEB88200000000000007FF
+t1370404994
+s2047
+
+N/Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessViewController.h
+c0000000051AEBC950000000000000136
+t1370406037
+s310
+
+N/Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessViewController.m
+c0000000051B002390000000000000666
+t1370489401
+s1638
+
+N/Users/monalisasatpathy/Developer/Happiness/Happiness/en.lproj/InfoPlist.strings
+c0000000051AEB882000000000000002D
+t1370404994
+s45
+
+N/Users/monalisasatpathy/Developer/Happiness/Happiness/en.lproj/MainStoryboard.storyboard
+c0000000051AEBC950000000000000AF5
+t1370406037
+s2805
+
+N/Users/monalisasatpathy/Developer/Happiness/Happiness/main.m
+c0000000051AEB882000000000000016F
+t1370404994
+s367
+
+NHappiness/Happiness-Info.plist
+c0000000051AEB88200000000000004DD
+t1370404994
+s1245
+
+CBuild AST from /Users/monalisasatpathy/Developer/Happiness/Happiness/FaceView.m
+r0
+
+CBuild AST from /Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessAppDelegate.m
+r0
+
+CBuild AST from /Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessViewController.m
+r0
+
+CBuild AST from /Users/monalisasatpathy/Developer/Happiness/Happiness/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies172e4fe27162b741^7bc050e27162b741^---0#1#0#--18"Check dependencies36"99B212D5-1481-4F87-B93E-45676CCBDE08-
+
+CCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o /Users/monalisasatpathy/Developer/Happiness/Happiness/FaceView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392327547.404005
+e392327547.463085
+r1
+xCompileC
+xDerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o
+x/Users/monalisasatpathy/Developer/Happiness/Happiness/FaceView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/monalisasatpathy/Developer/Happiness/Happiness/FaceView.md591677b7162b741^488c767b7162b741^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/monalisasatpathy/Developer/Happiness/Happiness/FaceView.m0000000000000000^3969"CompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o Happiness/FaceView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/monalisasatpathy/Developer/Happiness    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap -iquote /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386 -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources -F/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator -include /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-agtzuekultsdsudsrhroxmpxtkfy/Happiness-Prefix.pch -MMD -MT dependencies -MF /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.d --serialize-diagnostics /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.dia -c /Users/monalisasatpathy/Developer/Happiness/Happiness/FaceView.m -o /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o36"E0070A50-62D0-4398-A432-EA509E221C41-
+
+CCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o /Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392098838.210688
+e392098838.589099
+r1
+xCompileC
+xDerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o
+x/Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessAppDelegate.m76193616f45eb741^74cf9616f45eb741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessAppDelegate.m0000000000000000^4041"CompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o Happiness/HappinessAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/monalisasatpathy/Developer/Happiness    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap -iquote /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386 -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources -F/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator -include /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-agtzuekultsdsudsrhroxmpxtkfy/Happiness-Prefix.pch -MMD -MT dependencies -MF /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.d --serialize-diagnostics /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.dia -c /Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessAppDelegate.m -o /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o36"2B35ACC0-AC56-4720-9A40-420D6B4BAC5C-
+
+CCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o /Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392279385.189645
+e392279385.589240
+r1
+xCompileC
+xDerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o
+x/Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessViewController.mddd03059b561b741^24ed9659b561b741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessViewController.m0000000000000000^4059"CompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o Happiness/HappinessViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/monalisasatpathy/Developer/Happiness    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap -iquote /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386 -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources -F/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator -include /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-agtzuekultsdsudsrhroxmpxtkfy/Happiness-Prefix.pch -MMD -MT dependencies -MF /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.d --serialize-diagnostics /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.dia -c /Users/monalisasatpathy/Developer/Happiness/Happiness/HappinessViewController.m -o /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o36"DE66F426-D611-49BD-98F9-ED8E1E26B0B3-
+
+CCompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o /Users/monalisasatpathy/Developer/Happiness/Happiness/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392098838.210133
+e392098838.589108
+r1
+xCompileC
+xDerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o
+x/Users/monalisasatpathy/Developer/Happiness/Happiness/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/monalisasatpathy/Developer/Happiness/Happiness/main.m7efc3516f45eb741^7cd59616f45eb741^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/monalisasatpathy/Developer/Happiness/Happiness/main.m0000000000000000^3945"CompileC DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o Happiness/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/monalisasatpathy/Developer/Happiness    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap -iquote /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386 -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources -F/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator -include /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-agtzuekultsdsudsrhroxmpxtkfy/Happiness-Prefix.pch -MMD -MT dependencies -MF /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.dia -c /Users/monalisasatpathy/Developer/Happiness/Happiness/main.m -o /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o36"E9A732D5-A966-488E-B50B-95842F662FB2-
+
+CCompileStoryboard /Users/monalisasatpathy/Developer/Happiness/Happiness/en.lproj/MainStoryboard.storyboard
+s392098966.315532
+e392098967.625184
+r1
+xCompileStoryboard
+x/Users/monalisasatpathy/Developer/Happiness/Happiness/en.lproj/MainStoryboard.storyboard
+o2013-06-04 21:22:47.158 Interface Builder Cocoa Touch Tool[48125:f07] CFPreferences: user home directory at file://localhost/Users/monalisasatpathy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CompileStoryboard Happiness/en.lproj/MainStoryboard.storyboardf60c5196f45eb741^9a0ba097f45eb741^-249"2013-06-04 21:22:47.158 Interface Builder Cocoa Touch Tool[48125:f07] CFPreferences: user home directory at file://localhost/Users/monalisasatpathy/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/monalisasatpathy/Developer/Happiness/Happiness/en.lproj/MainStoryboard.storyboard0000000000000000^996"CompileStoryboard Happiness/en.lproj/MainStoryboard.storyboard    cd /Users/monalisasatpathy/Developer/Happiness    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/MainStoryboard.storyboardc /Users/monalisasatpathy/Developer/Happiness/Happiness/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"07DA7632-8E1F-4C16-B519-C396C2DF574F-
+
+CCopyStringsFile /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/InfoPlist.strings Happiness/en.lproj/InfoPlist.strings
+s392098966.293491
+e392098966.303278
+r1
+xCopyStringsFile
+x/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/InfoPlist.strings
+xHappiness/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Happiness/en.lproj/InfoPlist.stringsf6404b96f45eb741^c6e04d96f45eb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/monalisasatpathy/Developer/Happiness/Happiness/en.lproj/InfoPlist.strings0000000000000000^655"CopyStringsFile DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj/InfoPlist.strings Happiness/en.lproj/InfoPlist.strings    cd /Users/monalisasatpathy/Developer/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/en.lproj -- Happiness/en.lproj/InfoPlist.strings36"81E76A1E-0327-41B7-9AD8-2D194E01F2EC-
+
+CCpResource Happiness/Default-568h@2x.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.png
+s392098966.293699
+e392098966.316336
+r1
+xCpResource
+xHappiness/Default-568h@2x.png
+xDerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.pngbf454b96f45eb741^4f085196f45eb741^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.png000000000080d041^689"CpResource "Happiness/Default-568h@2x.png" "DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default-568h@2x.png"    cd /Users/monalisasatpathy/Developer/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monalisasatpathy/Developer/Happiness/Happiness/Default-568h@2x.png" /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app36"5A3D1482-01A7-4754-9068-C941530BC831-
+
+CCpResource Happiness/Default.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.png
+s392098966.293499
+e392098966.304789
+r1
+xCpResource
+xHappiness/Default.png
+xDerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.png81404b96f45eb741^64064e96f45eb741^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.png000000000080d041^659"CpResource Happiness/Default.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default.png    cd /Users/monalisasatpathy/Developer/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/monalisasatpathy/Developer/Happiness/Happiness/Default.png /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app36"CBE2A1C7-F65E-4AEB-8626-62C054022D57-
+
+CCpResource Happiness/Default@2x.png DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.png
+s392098966.293482
+e392098966.317395
+r1
+xCpResource
+xHappiness/Default@2x.png
+xDerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.png5f404b96f45eb741^bc405196f45eb741^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.png000000000080d041^674"CpResource "Happiness/Default@2x.png" "DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Default@2x.png"    cd /Users/monalisasatpathy/Developer/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monalisasatpathy/Developer/Happiness/Happiness/Default@2x.png" /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app36"BF34312F-FD10-4D86-A9A0-9173D22034D1-
+
+CGenerateDSYMFile /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness
+s392327547.504807
+e392327547.526252
+r1
+xGenerateDSYMFile
+x/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM
+x/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Generate /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM054f817b7162b741^edb7867b7162b741^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM/0000000000000000^776"GenerateDSYMFile DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness    cd /Users/monalisasatpathy/Developer/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness -o /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app.dSYM36"54F48243-FB4A-4CE0-B150-30E14132999A-
+
+CLd /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness normal i386
+s392327547.469924
+e392327547.497834
+r1
+xLd
+x/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Link /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness7461787b7162b741^fc717f7b7162b741^---0#0#0#--1346"Ld DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness normal i386    cd /Users/monalisasatpathy/Developer/Happiness    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator -F/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator -filelist /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/Happiness.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Happiness36"A5E9AA70-314A-4A0D-98A9-0C594A872D44-
+
+CProcessInfoPlistFile /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Info.plist Happiness/Happiness-Info.plist
+s392098837.591358
+e392098837.594316
+r1
+xProcessInfoPlistFile
+x/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Info.plist
+xHappiness/Happiness-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process Happiness/Happiness-Info.plist31799715f45eb741^28639815f45eb741^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/monalisasatpathy/Developer/Happiness/Happiness/Happiness-Info.plist0000000000000000^772"ProcessInfoPlistFile DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Info.plist Happiness/Happiness-Info.plist    cd /Users/monalisasatpathy/Developer/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Happiness/Happiness-Info.plist -genpkginfo /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app/Info.plist36"C79EE665-EA48-4B88-95D5-32CB4FA1B50E-
+
+CProcessPCH /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-agtzuekultsdsudsrhroxmpxtkfy/Happiness-Prefix.pch.pth Happiness/Happiness-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392098837.602376
+e392098838.203200
+r1
+xProcessPCH
+x/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-agtzuekultsdsudsrhroxmpxtkfy/Happiness-Prefix.pch.pth
+xHappiness/Happiness-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile Happiness/Happiness-Prefix.pchfd6a9a15f45eb741^180a3416f45eb741^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/monalisasatpathy/Developer/Happiness/Happiness/Happiness-Prefix.pch0000000000000000^3833"ProcessPCH DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-agtzuekultsdsudsrhroxmpxtkfy/Happiness-Prefix.pch.pth Happiness/Happiness-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/monalisasatpathy/Developer/Happiness    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap -iquote /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386 -I/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources -F/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-agtzuekultsdsudsrhroxmpxtkfy/Happiness-Prefix.pch.dia -c /Users/monalisasatpathy/Developer/Happiness/Happiness/Happiness-Prefix.pch -o /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-agtzuekultsdsudsrhroxmpxtkfy/Happiness-Prefix.pch.pth -MMD -MT dependencies -MF /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Intermediates/PrecompiledHeaders/Happiness-Prefix-agtzuekultsdsudsrhroxmpxtkfy/Happiness-Prefix.pch.d36"D0CEA84F-473A-4DCA-9045-3E7E36F9128E-
+
+CProcessPCH /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Index/PrecompiledHeaders/Happiness-Prefix-grgkysljxbcanuhcmpvuhcletqmh_ast/Happiness-Prefix.pch.pth Happiness/Happiness-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app
+s392327547.544793
+e392327547.551484
+r1
+xTouch
+x/Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Touch /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app72898b7b7162b741^302e8d7b7162b741^---0#0#0#--464"Touch DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app    cd /Users/monalisasatpathy/Developer/Happiness    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/monalisasatpathy/Developer/Happiness/DerivedData/Happiness/Build/Products/Debug-iphonesimulator/Happiness.app36"8FC65DD9-4031-47D7-909D-70507A0B89A2-
+
